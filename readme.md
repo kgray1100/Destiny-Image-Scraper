@@ -1,6 +1,6 @@
 #  Destiny Image Scraper 
 
-Destiny Image Scraper is a tool that can pull a image for anything that Bungie consider an item in Destiny 2
+Destiny Image Scraper is a tool that can pull a image for anything that Bungie consider an item in Destiny 2. Super helpful for finding items for writing docs, creating thumbnails, and more!
 
 ##  How it Works 
 
